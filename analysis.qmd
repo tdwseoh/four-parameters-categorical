@@ -27,3 +27,4 @@ nes_92 <- nes |>
   ))
 ```
 
+Using data from the National Election Studies (NES) survey of US citizens, we seek to understand the relationship between voter preference and sex in the 1992 Presidential election. Our results might be biased by differential non-response among different categories of voters that go unobserved.
